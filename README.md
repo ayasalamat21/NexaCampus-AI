@@ -1,1 +1,1 @@
-# Noonify
+# NexaCampus AI
